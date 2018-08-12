@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cac9ee8a-0316-439e-8ece-cf55c5b5d01d" name="Default" comment="">
+    <list default="true" id="cac9ee8a-0316-439e-8ece-cf55c5b5d01d" name="Default" comment="Add WaterBottle and Test Class">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/davidfulton.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - WaterBottleTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WaterBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IntroToMaven" beforeDir="false" afterPath="$PROJECT_DIR$/../IntroToMaven" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,18 +20,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="FavoritesManager">
+    <favorites_list name="SingleClasses_HW_Solution" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="288">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#277#278#0" expanded="true" />
                 <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
                 <element signature="e#424#425#0" expanded="true" />
                 <element signature="e#467#468#0" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
@@ -34,26 +43,76 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Exercise.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WaterBottleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test Results - WaterBottleTest.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test Results - WaterBottleTest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="569" column="35" selection-start-line="569" selection-start-column="35" selection-end-line="569" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WaterBottle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="256">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#270#271#0" expanded="true" />
                 <element signature="e#314#315#0" expanded="true" />
                 <element signature="e#343#344#0" expanded="true" />
                 <element signature="e#387#388#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -68,6 +127,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="David" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -75,11 +139,16 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Waterbottle.java" />
         <option value="$PROJECT_DIR$/src/main/java/Printer.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/HWork.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/WaterBottle" />
+        <option value="$PROJECT_DIR$/src/main/java/WaterBottleClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WaterBottle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
+        <option value="$PROJECT_DIR$/Test Results - WaterBottleTest.html" />
       </list>
     </option>
   </component>
@@ -95,12 +164,16 @@
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +190,19 @@
               <item name="SingleClasses_HW_Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="SingleClasses_HW_Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SingleClasses_HW_Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SingleClasses_HW_Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SingleClasses_HW_Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SingleClasses_HW_Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -126,13 +212,16 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SingleClasses_HW_Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SingleClasses_HW_Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="JUnit.WaterBottleTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -194,23 +283,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PrinterTest.printerHasEnoughPaper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SingleClasses" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
-      <option name="METHOD_NAME" value="printerHasEnoughPaper" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="PrinterTest.tonerGoesDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SingleClasses" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -228,13 +300,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="WaterBottleTest.canFill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WaterBottleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SingleClasses" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
-      <option name="METHOD_NAME" value="canFill" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="WaterBottleTest.refill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SingleClasses" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="METHOD_NAME" value="refill" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -284,19 +373,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.WaterBottleTest.canFill" />
-      <item itemvalue="JUnit.PrinterTest.printerHasEnoughPaper" />
       <item itemvalue="JUnit.PrinterTest.canRefillPaper" />
       <item itemvalue="JUnit.PrinterTest.tonerGoesDown" />
       <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="JUnit.WaterBottleTest" />
+      <item itemvalue="JUnit.WaterBottleTest.refill" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WaterBottleTest" />
+        <item itemvalue="JUnit.WaterBottleTest.refill" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.PrinterTest.tonerGoesDown" />
         <item itemvalue="JUnit.PrinterTest.canRefillPaper" />
-        <item itemvalue="JUnit.PrinterTest.printerHasEnoughPaper" />
-        <item itemvalue="JUnit.WaterBottleTest.canFill" />
       </list>
     </recent_temporary>
   </component>
@@ -314,72 +403,168 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WaterBottleTest_volumeIs100 - 2018.06.19 at 09h 41m 53s.xml">
-      <configuration name="WaterBottleTest.volumeIs100" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaterBottleTest_canDrink - 2018.06.19 at 09h 45m 09s.xml">
-      <configuration name="WaterBottleTest.canDrink" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaterBottleTest - 2018.06.19 at 09h 45m 20s.xml">
+    <history-entry file="WaterBottleTest - 2018.08.12 at 11h 41m 32s.xml">
       <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WaterBottleTest_canEmpty - 2018.06.19 at 09h 46m 38s.xml">
-      <configuration name="WaterBottleTest.canEmpty" configurationId="JUnit" />
+    <history-entry file="WaterBottleTest - 2018.08.12 at 11h 42m 14s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WaterBottleTest_canFill - 2018.06.19 at 09h 48m 02s.xml">
-      <configuration name="WaterBottleTest.canFill" configurationId="JUnit" />
+    <history-entry file="WaterBottleTest - 2018.08.12 at 11h 46m 15s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WaterBottleTest_canFill - 2018.06.19 at 09h 48m 17s.xml">
-      <configuration name="WaterBottleTest.canFill" configurationId="JUnit" />
+    <history-entry file="WaterBottleTest_refill - 2018.08.12 at 11h 46m 30s.xml">
+      <configuration name="WaterBottleTest.refill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrinterTest_printerHasEnoughPaper - 2018.06.19 at 09h 54m 43s.xml">
-      <configuration name="PrinterTest.printerHasEnoughPaper" configurationId="JUnit" />
+    <history-entry file="WaterBottleTest_refill - 2018.08.12 at 11h 49m 32s.xml">
+      <configuration name="WaterBottleTest.refill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrinterTest_canRefillPaper - 2018.06.19 at 09h 56m 19s.xml">
-      <configuration name="PrinterTest.canRefillPaper" configurationId="JUnit" />
+    <history-entry file="WaterBottleTest_refill - 2018.08.12 at 11h 49m 54s.xml">
+      <configuration name="WaterBottleTest.refill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrinterTest_tonerGoesDown - 2018.06.19 at 09h 59m 22s.xml">
-      <configuration name="PrinterTest.tonerGoesDown" configurationId="JUnit" />
+    <history-entry file="WaterBottleTest_refill - 2018.08.12 at 11h 50m 43s.xml">
+      <configuration name="WaterBottleTest.refill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest - 2018.08.11 at 14h 39m 00s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="WaterBottleTest_refill - 2018.08.12 at 11h 50m 49s.xml">
+      <configuration name="WaterBottleTest.refill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest_refill - 2018.08.12 at 11h 50m 58s.xml">
+      <configuration name="WaterBottleTest.refill" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WaterBottleTest - 2018.08.12 at 11h 51m 14s.xml">
+      <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827586" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3267974" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49019608" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.41503268" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24836601" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.25767368" />
+      <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.25767368" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50121653" side_tool="true" weight="0.25767368" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49019608" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24836601" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.11111111" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827586" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Add WaterBottle and Test Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add WaterBottle and Test Class" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -388,7 +573,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#277#278#0" expanded="true" />
             <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
             <element signature="e#424#425#0" expanded="true" />
             <element signature="e#467#468#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
@@ -423,10 +607,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="256">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#270#271#0" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
@@ -438,13 +632,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="288">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#277#278#0" expanded="true" />
             <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
             <element signature="e#424#425#0" expanded="true" />
             <element signature="e#467#468#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
@@ -452,10 +645,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Waterbottle.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java" />
+    <entry file="file://$PROJECT_DIR$/Exercise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WaterBottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WaterBottleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Results - WaterBottleTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="569" column="35" selection-start-line="569" selection-start-column="35" selection-end-line="569" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
