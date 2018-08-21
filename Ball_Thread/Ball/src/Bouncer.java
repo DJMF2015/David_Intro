@@ -4,13 +4,13 @@ import javax.swing.*;
 
 public class Bouncer extends JFrame implements ActionListener {
 
-    private JButton goButton, fasterButton, slowerButton;
+    private JButton goButton, fasterButton, slowerButton, newBall;
     private JPanel panel;
     private Ball ball = null;
 
     public static void main(String[] args) {
         Bouncer frame = new Bouncer();
-        frame.setSize(400,350);
+        frame.setSize(500,450);
         frame.createGUI();
         frame.show();
     }
@@ -36,6 +36,10 @@ public class Bouncer extends JFrame implements ActionListener {
         slowerButton = new JButton("slower");
         window.add(slowerButton);
         slowerButton.addActionListener(this);
+
+        newBall = new JButton("new");
+        window.add(newBall);
+        newBall.addActionListener(this);
     }
 
     public void actionPerformed(ActionEvent event) {
@@ -49,6 +53,11 @@ public class Bouncer extends JFrame implements ActionListener {
         }
         if (event.getSource() == slowerButton) {
             ball.slower();
+        }
+        if (event.getSource() == newBall){
+            Graphics paper2 = panel.getGraphics();
+            ball = new Ball(paper2);
+            ball.start();
         }
     }
 }
