@@ -1,5 +1,5 @@
-Lab
-Create a TDD model of a bus with passengers.
+<b>Lab
+Create a TDD model of a bus with passengers.</b>
 
 MVP
 Create a Bus class with a Destination, Capacity and an initially empty ArrayList passengers of type Person. Yes
